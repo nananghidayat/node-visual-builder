@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 
 <img src="client/public/favicon.svg" width="72" alt="Node Visual Builder" />
@@ -177,7 +176,7 @@ docker compose up --build
 
 ## Lisensi
 
-Belum ditentukan. Tambahkan file `LICENSE` sesuai kebutuhan.
+MIT
 =======
 # node-visual-builder
 Rancang REST API Express secara visual di kanvas, lalu generate proyek Node.js lengkap: validasi, auth JWT/API Key, MongoDB/PostgreSQL/MySQL + migration, Docker Compose, dan Postman collection.
