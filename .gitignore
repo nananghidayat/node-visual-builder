@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dependency
 node_modules/
 
@@ -50,7 +49,6 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
@@ -175,4 +173,3 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
->>>>>>> 24e8cab2c49f3a9a0cd6fa1f322bd4b57220ea15
