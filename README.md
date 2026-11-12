@@ -177,7 +177,3 @@ docker compose up --build
 ## Lisensi
 
 MIT
-=======
-# node-visual-builder
-Rancang REST API Express secara visual di kanvas, lalu generate proyek Node.js lengkap: validasi, auth JWT/API Key, MongoDB/PostgreSQL/MySQL + migration, Docker Compose, dan Postman collection.
->>>>>>> 24e8cab2c49f3a9a0cd6fa1f322bd4b57220ea15
